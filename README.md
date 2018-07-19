@@ -32,7 +32,7 @@
   <h3>Response:</h3>
   <pre>{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</pre>
 </details>
-
+<hr>
 <details>
   <summary>
     <b>API_item_3</b>
@@ -47,7 +47,7 @@
   <h3>Response:</h3>
   <p>{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</p>
 </details>
-
+<hr>
 <details>
   <summary>
     <b>another_api_item</b>
