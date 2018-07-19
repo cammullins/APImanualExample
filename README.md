@@ -71,7 +71,6 @@ Summary details will go here, explaining iinput and outout breifly
   <summary>
     More Details
   </summary>
-  <br>
   <h3>Method:</h3>
   <p>Post</p>
   <h3>Request:</h3>
@@ -88,7 +87,6 @@ Summary details will go here, explaining iinput and outout breifly
   <summary>
     More Details
   </summary>
-  <br>
   <h3>Method:</h3>
   <p>Post</p>
   <h3>Request:</h3>
