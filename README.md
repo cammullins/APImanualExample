@@ -19,7 +19,7 @@
 
 <details>
   <summary>
-    <h3>get_appointment_list</h3>
+    <b>get_Something_else</b>
     <p>Use this method to get appointments from a list. Send request as described and recieve JSON</p>
   </summary>
   <br>
@@ -34,8 +34,8 @@
 
 <details>
   <summary>
-    <h3>get_appointment_list</h3>
-    <p>Use this method to get appointments from a list. Send request as described and recieve JSON</p>
+    <b>API_item_3</b>
+    <p>Use this method to do some things. Send request as described and recieve JSON</p>
   </summary>
   <br>
   <h3>Method:</h3>
@@ -48,8 +48,8 @@
 </details>
 
 <details>
-  <summary>
-    <h3>get_appointment_list</h3>
+  <summary style="background-color:#fafbfc">
+    <b>another_api_item</b>
     <p>Use this method to get appointments from a list. Send request as described and recieve JSON</p>
   </summary>
   <br>
