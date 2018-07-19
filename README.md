@@ -71,13 +71,16 @@ Summary details will go here, explaining iinput and outout breifly
   <summary>
     More Details
   </summary>
-  <h3>Method:</h3>
-  <p>Post</p>
-  <h3>Request:</h3>
-  <p>https://{{HOST}}/xxx/api/server/bla/bla/bla</p>
-  <p>Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
-  <h3>Response:</h3>
-  <p>{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</p>
+  <pre>
+  Method:
+  Post
+  
+  Request:
+  https://{{HOST}}/xxx/api/server/bla/bla/bla
+  Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
+  
+  Response:
+  { "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</pre>
 </details>
 <hr>
 
