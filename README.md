@@ -71,15 +71,12 @@ Summary details will go here, explaining iinput and outout breifly
   <summary>
     More Details
   </summary>
-  <pre>
- Method:
+  <pre>Method:
     Post
-  
- Request:
+   Request:
   https://{{HOST}}/xxx/api/server/bla/bla/bla
   Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
-  
- Response:
+  Response:
   { "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</pre>
 </details>
 <hr>
