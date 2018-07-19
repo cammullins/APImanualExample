@@ -13,9 +13,9 @@
   <p>https://{{HOST}}/xxx/api/server/bla/bla/bla</p>
   <p>Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
   <h3>Response:</h3>
-  <p>
-  `{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }
-  </p>
+  <pre>
+  { "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }
+  </pre>
 </details>
 <hr>
 <details>
@@ -39,8 +39,8 @@
     <p>Use this method to do some things. Send request as described and recieve JSON</p>
   </summary>
   <br>
-  <h3>Method:</h3>
-  <p>Post</p>
+  **Method:**
+  <pre>Post</pre>
   <h3>Request:</h3>
   <p>https://{{HOST}}/xxx/api/server/bla/bla/bla</p>
   <p>Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
