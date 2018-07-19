@@ -4,7 +4,7 @@
 
 <details>
   <summary>
-    <h3>get_appointment_list</h3>
+    <b>get_appointment_list</b>
     <p>Use this method to get appointments from a list. Send request as described and recieve JSON</p>
   </summary>
   <br>
