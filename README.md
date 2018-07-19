@@ -1,7 +1,7 @@
 # Some Ideas for our API Manual
 
 ## Dropdown
-
+```
 <details>
   <summary>
     <b>get_appointment_list</b>
@@ -16,7 +16,7 @@
   <h3>Response:</h3>
   <p>{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</p>
 </details>
-
+```
 <details>
   <summary>
     <b>get_Something_else</b>
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary style="background-color:#fafbfc">
+  <summary>
     <b>another_api_item</b>
     <p>Use this method to get appointments from a list. Send request as described and recieve JSON</p>
   </summary>
