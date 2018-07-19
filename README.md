@@ -81,6 +81,7 @@ Summary details will go here, explaining iinput and outout breifly
   <p>{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }</p>
 </details>
 <hr>
+
 ### another_api_item
 Summary details will go here, explaining iinput and outout breifly
 <details>
