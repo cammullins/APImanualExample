@@ -13,11 +13,9 @@
   <p>https://{{HOST}}/xxx/api/server/bla/bla/bla</p>
   <p>Body Param { "hostOrIp": "XXX.XX.XXX", "username": "admin" }
   <h3>Response:</h3>
-  ```
-  { "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }
-  ```
+  `{ "Status": "success", "statusCode": "10000", "statusMessage": "Operation Performed Successfully", "responseData": "... }`
 </details>
-
+<hr>
 <details>
   <summary>
     <b>get_Something_else</b>
